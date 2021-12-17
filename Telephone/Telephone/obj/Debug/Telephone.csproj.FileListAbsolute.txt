@@ -1,0 +1,38 @@
+c:\users\lp\documents\visual studio 2013\Projects\Telephone\Telephone\bin\Debug\Telephone.exe.config
+c:\users\lp\documents\visual studio 2013\Projects\Telephone\Telephone\bin\Debug\Telephone.exe
+c:\users\lp\documents\visual studio 2013\Projects\Telephone\Telephone\bin\Debug\Telephone.pdb
+c:\users\lp\documents\visual studio 2013\Projects\Telephone\Telephone\obj\Debug\Telephone.csprojResolveAssemblyReference.cache
+c:\users\lp\documents\visual studio 2013\Projects\Telephone\Telephone\obj\Debug\Telephone.Form1.resources
+c:\users\lp\documents\visual studio 2013\Projects\Telephone\Telephone\obj\Debug\Telephone.Properties.Resources.resources
+c:\users\lp\documents\visual studio 2013\Projects\Telephone\Telephone\obj\Debug\Telephone.csproj.GenerateResource.Cache
+c:\users\lp\documents\visual studio 2013\Projects\Telephone\Telephone\obj\Debug\Telephone.exe
+c:\users\lp\documents\visual studio 2013\Projects\Telephone\Telephone\obj\Debug\Telephone.pdb
+E:\D\Project\Telephone\Telephone\bin\Debug\Telephone.exe.config
+E:\D\Project\Telephone\Telephone\obj\Debug\Telephone.exe
+E:\D\Project\Telephone\Telephone\obj\Debug\Telephone.pdb
+E:\D\Project\Telephone\Telephone\bin\Debug\Telephone.exe
+E:\D\Project\Telephone\Telephone\bin\Debug\Telephone.pdb
+E:\D\Project\Telephone\Telephone\obj\Debug\Telephone.csprojResolveAssemblyReference.cache
+E:\D\Project\Telephone\Telephone\obj\Debug\Telephone.Form1.resources
+E:\D\Project\Telephone\Telephone\obj\Debug\Telephone.Properties.Resources.resources
+E:\D\Project\Telephone\Telephone\obj\Debug\Telephone.csproj.GenerateResource.Cache
+E:\D\Project\Telephone\Telephone\obj\Debug\Telephone.Form2.resources
+E:\D\Project\Telephone\Telephone\obj\Debug\Telephone.Form3.resources
+E:\D\Project\Telephone\Telephone\obj\Debug\Telephone.Form4.resources
+E:\D\Project\Telephone\Telephone\obj\Debug\Telephone.Form5.resources
+E:\Tutorials\calculatorC#\Telephone\Telephone\bin\Debug\Telephone.exe.config
+E:\Tutorials\calculatorC#\Telephone\Telephone\obj\Debug\Telephone.exe
+E:\Tutorials\calculatorC#\Telephone\Telephone\obj\Debug\Telephone.pdb
+E:\Tutorials\calculatorC#\Telephone\Telephone\bin\Debug\Telephone.exe
+E:\Tutorials\calculatorC#\Telephone\Telephone\bin\Debug\Telephone.pdb
+E:\Tutorials\calculatorC#\Telephone\Telephone\obj\Debug\Telephone.csprojResolveAssemblyReference.cache
+E:\Tutorials\calculatorC#\Telephone\Telephone\obj\Debug\Telephone.Form1.resources
+E:\Tutorials\calculatorC#\Telephone\Telephone\obj\Debug\Telephone.Form2.resources
+E:\Tutorials\calculatorC#\Telephone\Telephone\obj\Debug\Telephone.Form3.resources
+E:\Tutorials\calculatorC#\Telephone\Telephone\obj\Debug\Telephone.Form4.resources
+E:\Tutorials\calculatorC#\Telephone\Telephone\obj\Debug\Telephone.Form5.resources
+E:\Tutorials\calculatorC#\Telephone\Telephone\obj\Debug\Telephone.Properties.Resources.resources
+E:\Tutorials\calculatorC#\Telephone\Telephone\obj\Debug\Telephone.csproj.GenerateResource.Cache
+E:\Tutorials\c#\project\Telephone\Telephone\bin\Debug\Telephone.exe.config
+E:\Tutorials\c#\project\Telephone\Telephone\obj\Debug\Telephone.exe
+E:\Tutorials\c#\project\Telephone\Telephone\obj\Debug\Telephone.pdb
